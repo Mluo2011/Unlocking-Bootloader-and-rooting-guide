@@ -90,7 +90,7 @@ Follow on-screen confirmation.
 # Root with Magisk Manager
 
 1. Download stock firmware for your exact device model
-2. Extract `boot.img` or `init_boot.img` 
+2. Extract `boot.img` or `init_boot.img` (use init_boot.img if it is present over boot.img)
 3. Install Magisk app on the phone
 4. Patch the boot image in Magisk
 5. Transfer patched image back to computer
